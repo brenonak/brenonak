@@ -1,9 +1,9 @@
 # Olá! Eu sou o Breno Nakamura
+![Visualizações do Perfil](https://komarev.com/ghpvc/?username=brenonak&label=Visualizações+do+Perfil&color=0077B5&style=flat)
 
-Sou Bacharel em Ciência e Tecnologia e estudante do 4º ano de **Engenharia da Computação** na Universidade Federal de São Paulo (UNIFESP) - São José dos Campos. 
+Sou Bacharel em Ciência e Tecnologia e estudante do 4º ano de **Engenharia da Computação** na Universidade Federal de São Paulo (UNIFESP) - São José dos Campos. Com perfil analítico, busco unir a engenharia de software, a análise de dados e a Inteligência Artificial para gerar eficiência e impacto social.
 
-Sou apaixonado por resolver problemas complexos que transitam entre o software de alto nível e a arquitetura de sistemas. Atualmente, atuo como **Pesquisador Bolsista FAPESP** focado em Identidades Autossoberanas (SSI) e Developer Experience (DX), com trabalho publicado em conferência internacional (BlockTEA 2025).
-
+Atualmente, atuo como **Pesquisador Bolsista FAPESP**, investigando cibersegurança e blockchain aplicados a identidades autosssoberanas (SSI), com trabalho publicado em conferência internacional (BlockTEA 2025). Também estou aprofundando meus conhecimentos em Data Analytics, Automação e IA através de formações especializadas.
 
 ---
 
@@ -42,12 +42,6 @@ Sou apaixonado por resolver problemas complexos que transitam entre o software d
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenonak&layout=compact&theme=react-dark" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=brenonak&theme=react-dark" />
-</div>
-
-<br>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=brenonak&theme=react-dark" />
 </div>
 
 ---
