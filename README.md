@@ -49,8 +49,8 @@ Atualmente, atuo como **Pesquisador Bolsista FAPESP**, investigando ciberseguran
 ## Destaques e Experiência
 
 * **Desenvolvimento:** Experiência com projetos acadêmicos abrangendo desde o design de landing pages estáticas até plataformas completas com integração de IA.
-* **Pesquisa Científica (FAPESP):** Pesquisa em cibersegurança e blockchain aplicada a carteiras digitais e identidades auto-soberanas (SSI). Análise de código-fonte e usabilidade (UX) de soluções open-source. Coautor de publicações internacionais em inglês, como BlockTEA (2025).
-* **Hackathons e Olimpíadas:** Vencedor de mais de 10 premiações em competições de segurança da informação e hackathons. Acumulo 52 medalhas em olimpíadas científicas nacionais e internacionais (Informática, Robótica, Física e Matemática).
+* **Iniciação Científica (FAPESP):** Pesquisa em cibersegurança e blockchain aplicada a carteiras digitais e identidades auto-soberanas (SSI). Análise de código-fonte e usabilidade (UX) de soluções open-source. Coautor de publicações internacionais em inglês, como BlockTEA (2025).
+* **Hackathons e Olimpíadas:** Vencedor de mais de 10 premiações em competições de segurança da informação e hackathons em equipe. Acumulo 52 medalhas em olimpíadas científicas nacionais e internacionais (Informática, Robótica, Física e Matemática).
 * **Liderança, Educação STEM e Impacto Social:** Bolsista PIBEX como líder e instrutor do Projeto TOR (UNIFESP) e professor de robótica e programação na rede pública pela AJAS. Organização de mais de 25 eventos voltados ao impacto social tecnológico em comunidades vulneráveis.
 
 ---
