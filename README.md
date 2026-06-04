@@ -37,15 +37,6 @@ Atualmente, atuo como **Pesquisador Bolsista FAPESP**, investigando ciberseguran
 
 ---
 
-## Estatísticas GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=brenonak&layout=compact&theme=react-dark" />
-  <img height="180em" src="https://streak-stats.demolab.com/?user=brenonak&theme=react-dark" />
-</div>
-
----
-
 ## Destaques e Experiência
 
 * **Desenvolvimento:** Experiência com projetos acadêmicos abrangendo desde o design de landing pages estáticas até plataformas completas com integração de IA.
@@ -62,6 +53,12 @@ Atualmente, atuo como **Pesquisador Bolsista FAPESP**, investigando ciberseguran
 * **SSI & DX Research:** Repositório que centraliza publicações (BlockTEA 2025) e dados da minha pesquisa FAPESP sobre Identidade Autossoberana.
 * **MIPS Single-Cycle Processor:** Projeto, simulação (ModelSim) e validação em hardware (FPGA DE2-115) de um processador MIPS de 32 bits em SystemVerilog.
 * **Perceptual Hash (pHash) para Autenticação:** Algoritmo de verificação de autenticidade de imagens integrando processamento em Python e operações em Assembly MIPS.
+
+* 🔗 **[Smart Assessment Platform](https://github.com/brenonak/sistema-avaliacao-inteligente):** Plataforma full-stack que utiliza Inteligência Artificial para geração de questões e OCR para correção automatizada de avaliações.
+* 🔗 **[Relational Database for Streaming](https://github.com/brenonak/sql_plataforma_streaming):** Modelagem e implementação de banco de dados relacional complexo, incluindo consultas analíticas avançadas em SQL.
+* 🔗 **[SSI & DX Research])(https://github.com/brenonak/open-source-ssi-research):** Repositório que centraliza publicações (BlockTEA 2025) e dados da minha pesquisa FAPESP sobre Identidade Autossoberana.
+* 🔗 **[MIPS Single-Cycle Processor](https://github.com/brenonak/systemverilog-mips-processor):** Projeto, simulação (ModelSim) e validação em hardware (FPGA DE2-115) de um processador MIPS de 32 bits em SystemVerilog.
+* 🔗 **[Perceptual Hash (pHash) para Autenticação](https://github.com/brenonak/perceptual-hash-mips):** Algoritmo de verificação de autenticidade de imagens integrando processamento em Python e operações em Assembly MIPS.
 
 ---
 
