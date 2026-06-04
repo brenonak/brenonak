@@ -48,12 +48,6 @@ Atualmente, atuo como **Pesquisador Bolsista FAPESP**, investigando ciberseguran
 
 ## Projetos em Destaque
 
-* **Smart Assessment Platform:** Plataforma full-stack que utiliza Inteligência Artificial para geração de questões e OCR para correção automatizada de avaliações.
-* **Relational Database for Streaming:** Modelagem e implementação de banco de dados relacional complexo, incluindo consultas analíticas avançadas em SQL.
-* **SSI & DX Research:** Repositório que centraliza publicações (BlockTEA 2025) e dados da minha pesquisa FAPESP sobre Identidade Autossoberana.
-* **MIPS Single-Cycle Processor:** Projeto, simulação (ModelSim) e validação em hardware (FPGA DE2-115) de um processador MIPS de 32 bits em SystemVerilog.
-* **Perceptual Hash (pHash) para Autenticação:** Algoritmo de verificação de autenticidade de imagens integrando processamento em Python e operações em Assembly MIPS.
-
 * 🔗 **[Smart Assessment Platform](https://github.com/brenonak/sistema-avaliacao-inteligente):** Plataforma full-stack que utiliza Inteligência Artificial para geração de questões e OCR para correção automatizada de avaliações.
 * 🔗 **[Relational Database for Streaming](https://github.com/brenonak/sql_plataforma_streaming):** Modelagem e implementação de banco de dados relacional complexo, incluindo consultas analíticas avançadas em SQL.
 * 🔗 **[SSI & DX Research])(https://github.com/brenonak/open-source-ssi-research):** Repositório que centraliza publicações (BlockTEA 2025) e dados da minha pesquisa FAPESP sobre Identidade Autossoberana.
