@@ -40,8 +40,8 @@ Atualmente, atuo como **Pesquisador Bolsista FAPESP**, investigando ciberseguran
 ## Estatísticas GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenonak&layout=compact&theme=react-dark" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=brenonak&theme=react-dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=brenonak&layout=compact&theme=react-dark" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=brenonak&theme=react-dark" />
 </div>
 
 ---
